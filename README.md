@@ -1,5 +1,15 @@
-- 👋 Hi, I’m @udara-neminda-chandrawansa
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS (React) and PHP
-- 💞️ I’m looking to collaborate on Web Projects
-- 📫 How to reach me - udaraneminda@gmail.com
+👋 Hi, I'm Udara Neminda Chandrawansa
+I am passionate about Web Development, with a focus on creating efficient, user-friendly web applications. I thrive on learning new technologies and building projects that solve real-world problems.
+
+👀 Interests:
+Full-stack web development
+Building responsive and dynamic websites
+Exploring the latest trends in JavaScript (React) and PHP
+🌱 Currently Learning:
+React to build scalable, dynamic user interfaces
+PHP to strengthen back-end development skills
+💼 Looking to Collaborate:
+I’m always open to collaborating on exciting web development projects, whether it’s frontend, backend, or full-stack work. If you have an interesting project, feel free to reach out!
+
+📫 How to Reach Me:
+Email: udaraneminda@gmail.com
