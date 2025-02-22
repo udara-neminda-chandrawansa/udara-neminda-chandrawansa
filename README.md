@@ -4,10 +4,11 @@ I am passionate about Web Development, with a focus on creating efficient, user-
 👀 Interests: <br>
 - Full-stack web development
 - Building responsive and dynamic websites
-- Exploring the latest trends in JavaScript (React) and PHP
+- Exploring the latest trends in JavaScript (React JS, Node JS) and PHP
   
 🌱 Currently Learning: <br>
 - React to build scalable, dynamic user interfaces
+- Node JS to build efficient and scalable backends
 - PHP to strengthen back-end development skills <br>
 
 💼 Looking to Collaborate: <br>
