@@ -13,6 +13,3 @@ I am passionate about Web Development, with a focus on creating efficient, user-
 
 💼 Looking to Collaborate: <br>
 - I’m always open to collaborating on exciting web development projects, whether it’s frontend, backend, or full-stack work. If you have an interesting project, feel free to reach out!
-
-📫 How to Reach Me: <br>
-- Email: udaraneminda@gmail.com
